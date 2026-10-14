@@ -25,7 +25,7 @@ sibling subfolder under the same app, e.g. `<app-name>/performance/`, `<app-name
 
 | App | Assessment | Status |
 |---|---|---|
-| [explorer](explorer/usability/report.md) | Usability (Manas testnet explorer, https://manas.palliora.org) | Complete -- 2026-10-13 |
+| [explorer](explorer/usability/report.md) | Usability (Manas testnet explorer, https://manas.palliora.org) | Complete -- 2026-10-14, 32 findings (severity 1-10), benchmarked against Etherscan/Subscan/Solscan |
 
 ## Methodology notes (apply across all assessments in this repo)
 
